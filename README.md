@@ -1,5 +1,11 @@
 # trackleads
 
+username: demo@gmail.com
+password : 1234
+
+app link: https://dashboard.trackleads.io/version-test/dashboard
+
+
 Overview of the UTM Link Generator & Lead Tracking App
 This Bubble application is designed to create UTM links using various UTM parameters and track leads that are generated from different marketing campaigns.
 
